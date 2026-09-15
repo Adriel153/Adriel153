@@ -4,7 +4,6 @@ Para você conseguir **copiar absolutamente tudo de uma vez**, o README inteiro 
 
 Aqui está a versão corrigida **do começo ao fim**, sem quebrar a partir de “Acredito que programação não é só escrever código”:
 
-```markdown
 # 👋 Olá! Eu sou Adriel Felix da Silva
 
 ### 💻 Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas
@@ -29,7 +28,7 @@ Atualmente venho desenvolvendo projetos envolvendo **Frontend, Backend, APIs, ba
 
 ---
 
-# 🧑‍💻 Minha jornada
+# 🧑💻 Minha jornada
 
 Minha evolução como desenvolvedor acontece principalmente através de três pilares:
 
@@ -55,8 +54,7 @@ Minha evolução como desenvolvedor acontece principalmente através de três pi
                  🚀 MELHORAR
                       │
                       ▼
-              👨‍💻 EVOLUIR
-```
+              👨💻 EVOLUIR
 
 Acredito que programação não é apenas escrever código.
 
