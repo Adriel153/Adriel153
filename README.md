@@ -32,7 +32,6 @@ Atualmente venho desenvolvendo projetos envolvendo **Frontend, Backend, APIs, ba
 
 Minha evolução como desenvolvedor acontece principalmente através de três pilares:
 
-~~~text
                   💡 APRENDER
                       │
                       ▼
@@ -479,7 +478,7 @@ Estou buscando minha primeira grande oportunidade profissional na área de desen
 * 💻 Desenvolvedor Júnior
 * 🌐 Desenvolvedor Web Júnior
 * ⚙️ Desenvolvedor Full Stack Júnior
-* 🧑‍💻 Desenvolvedor de Sistemas
+* 🧑💻 Desenvolvedor de Sistemas
 
 Meu objetivo é entrar em uma equipe onde eu possa:
 
@@ -639,4 +638,3 @@ Sempre evoluindo.**
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adriel153&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="Visualizações do perfil" />
 </p>
-~~~
