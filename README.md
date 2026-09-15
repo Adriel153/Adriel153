@@ -1,9 +1,3 @@
-Você tem razão. O problema é que eu coloquei **blocos de código dentro de outro bloco de código**, então o Markdown fecha o bloco principal antes da hora.
-
-Para você conseguir **copiar absolutamente tudo de uma vez**, o README inteiro precisa estar dentro de **um único bloco externo**, e os diagramas internos devem usar `~~~text` ou `~~~javascript` em vez de ```.
-
-Aqui está a versão corrigida **do começo ao fim**, sem quebrar a partir de “Acredito que programação não é só escrever código”:
-
 # 👋 Olá! Eu sou Adriel Felix da Silva
 
 ### 💻 Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas
