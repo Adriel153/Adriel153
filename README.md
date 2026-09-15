@@ -21,7 +21,7 @@ Atualmente venho desenvolvendo projetos envolvendo **Frontend, Backend, APIs, ba
 > 💡 **"Sempre em busca de melhorar e evoluir através da tecnologia."**
 
 ---
-### 🧠 Áreas que venho desenvolvendo
+### 🧠 Áreas que venho a desenvolvendo
 
 ```text
 Frontend             ███████████████████░░  90%
