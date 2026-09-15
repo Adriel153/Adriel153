@@ -346,17 +346,19 @@ Essa experiência me ajuda a entender como diferentes sistemas podem trabalhar j
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Adriel153&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
-    alt="Estatísticas do GitHub"
+    src="https://github-readme-stats.vercel.app/api?username=Adriel153&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400&v=20260915"
+    alt="Estatísticas do GitHub de Adriel153"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel153&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Linguagens mais utilizadas"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel153&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400&v=20260915"
+    alt="Linguagens mais utilizadas por Adriel153"
   />
 </p>
+
+> **Observação:** os cards são gerados dinamicamente pelo serviço GitHub Readme Stats. O parâmetro `v=20260915` força uma nova URL para evitar que o GitHub mantenha uma imagem antiga em cache.
 
 ---
 
@@ -379,6 +381,7 @@ Essa experiência me ajuda a entender como diferentes sistemas podem trabalhar j
     alt="Gráfico de atividade do GitHub"
   />
 </p>
+---
 ---
 
 # 📚 Conhecimentos
