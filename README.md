@@ -27,6 +27,19 @@ Atualmente venho desenvolvendo projetos envolvendo **Frontend, Backend, APIs, ba
 > 💡 **"Sempre em busca de melhorar e evoluir através da tecnologia."**
 
 ---
+### 🧠 Áreas que venho desenvolvendo
+
+```text
+Frontend             ███████████████████░░  90%
+JavaScript           █████████████████░░░░  85%
+React                ████████████████░░░░░  80%
+Backend              ███████████████░░░░░░  75%
+Node.js              ███████████████░░░░░░  75%
+Banco de Dados       ██████████████░░░░░░░  70%
+Git/GitHub            ████████████████░░░░░  80%
+Lógica de Programação █████████████████░░░░  85%
+```
+---
 
 # 🧑💻 Minha jornada
 
