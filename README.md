@@ -346,17 +346,16 @@ Essa experiência me ajuda a entender como diferentes sistemas podem trabalhar j
 
 <p align="center">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Adriel153&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Adriel153&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
     alt="Estatísticas do GitHub"
   />
+</p>
 
-<img
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel153&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
- alt="Linguagens mais utilizadas"
-/>
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel153&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Linguagens mais utilizadas"
+  />
 </p>
 
 ---
@@ -380,7 +379,6 @@ Essa experiência me ajuda a entender como diferentes sistemas podem trabalhar j
     alt="Gráfico de atividade do GitHub"
   />
 </p>
-
 ---
 
 # 📚 Conhecimentos
