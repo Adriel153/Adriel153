@@ -1,127 +1,55 @@
-# 👋 Olá, eu sou Adriel Felix da Silva!
+# 👋 Olá! Eu sou Adriel Felix da Silva
 
 ### 💻 Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, desenvolvimento web e criação de soluções digitais.
-
-Tenho como objetivo evoluir continuamente como desenvolvedor, transformando ideias em aplicações funcionais, modernas e cada vez mais profissionais.
-
-> 🚀 **"Sempre em busca de melhorar e evoluir através da tecnologia."**
+<p align="left">
+  <a href="https://github.com/Adriel153">
+    <img src="https://img.shields.io/badge/GitHub-Adriel153-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🚀 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, programação e desenvolvimento de soluções digitais.
 
-💻 Foco em **Desenvolvimento Web e Software**
+Tenho como objetivo construir uma carreira sólida na área de desenvolvimento de software, sempre buscando transformar conhecimentos em **projetos reais, funcionais e úteis**.
 
-🌱 Atualmente aprimorando meus conhecimentos em programação, arquitetura de aplicações e desenvolvimento de sistemas completos.
+Atualmente venho desenvolvendo projetos envolvendo **Frontend, Backend, APIs, bancos de dados, autenticação, integrações externas e deploy de aplicações**.
 
-🔨 Gosto de aprender colocando a mão na massa, criando projetos reais e resolvendo problemas durante o desenvolvimento.
-
-🎯 Meu objetivo profissional é atuar como **Desenvolvedor Júnior**, contribuindo com projetos reais enquanto continuo evoluindo tecnicamente.
+> 💡 **"Sempre em busca de melhorar e evoluir através da tecnologia."**
 
 ---
 
-# 🛠️ Tecnologias e conhecimentos
+# 🧑‍💻 Minha jornada
 
-### 🌐 Desenvolvimento Web
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-### ⚙️ Backend e desenvolvimento
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-### 🗄️ Banco de dados
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
-### 🔧 Ferramentas e conceitos
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</p>
-
-Também venho desenvolvendo conhecimentos em:
-
-* 🔹 Lógica de programação
-* 🔹 Programação Orientada a Objetos
-* 🔹 APIs REST
-* 🔹 Integração entre frontend e backend
-* 🔹 Banco de dados relacionais
-* 🔹 Autenticação e autorização
-* 🔹 Integração com APIs externas
-* 🔹 Desenvolvimento de interfaces responsivas
-* 🔹 Controle de versões com Git
-* 🔹 Deploy e configuração de aplicações web
-* 🔹 Estruturação de aplicações full stack
-
----
-
-# 🚀 Projeto em destaque
-
-## 💈 AQ BARBER
-
-Um dos principais projetos que venho desenvolvendo é uma plataforma voltada para **barbearias e clientes**, criada para aproximar profissionais e usuários e facilitar a experiência de agendamento e interação.
-
-### ✨ Principais funcionalidades
-
-* 👤 Cadastro e autenticação de usuários
-* 💈 Perfis de barbearias
-* 📅 Sistema de agendamento
-* 🔔 Sistema de notificações
-* 💬 Sistema de mensagens
-* 🔐 Recursos de segurança e verificação
-* 📱 Interface responsiva
-* 📸 Publicações de imagens e vídeos
-* 🎥 Feed de conteúdo
-* 💳 Integração com pagamentos
-* 📲 Experiência adaptada para dispositivos móveis
-* 🔄 Comunicação entre diferentes partes do sistema
-
-### 🏗️ Arquitetura
+Minha evolução como desenvolvedor acontece principalmente através de três pilares:
 
 ```text
-                    ┌─────────────────────┐
-                    │      AQ BARBER      │
-                    └──────────┬──────────┘
-                               │
-                 ┌─────────────┴─────────────┐
-                 │                           │
-          ┌──────▼──────┐             ┌──────▼──────┐
-          │   Frontend  │             │   Backend   │
-          │ React / Vite│             │Node / Express│
-          └──────┬──────┘             └──────┬──────┘
-                 │                           │
-                 └─────────────┬─────────────┘
-                               │
-                        ┌──────▼──────┐
-                        │  Database   │
-                        │ PostgreSQL  │
-                        └─────────────┘
-```
-
-O projeto também envolve integração com serviços externos, autenticação, armazenamento de dados, pagamentos e implantação em ambiente de produção.
-
----
-
-# 📊 Meu perfil de desenvolvimento
-
+                  💡 APRENDER
+                      │
+                      ▼
+                📚 ESTUDAR
+                      │
+                      ▼
+                💻 PRATICAR
+                      │
+                      ▼
+                🔨 CONSTRUIR
+                      │
+                      ▼
+                 🧪 TESTAR
+                      │
+                      ▼
+                 🐛 CORRIGIR
+                      │
+                      ▼
+                 🚀 MELHORAR
+                      │
+                      ▼
+              👨‍💻 EVOLUIR
+<br>
 ### 🧠 Áreas que venho desenvolvendo
 
 ```text
@@ -134,226 +62,421 @@ Banco de Dados       ██████████████░░░░░�
 Git/GitHub            ████████████████░░░░░  80%
 Lógica de Programação █████████████████░░░░  85%
 ```
+Desenvolvimento de interfaces responsivas
+Componentização
+JavaScript
+React
+Vite
+HTML semântico
+CSS
+Integração com APIs
+Experiência de usuário e interfaces modernas
+⚙️ Backend
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> </p>
+Conhecimentos
+Desenvolvimento de APIs
+Rotas e controllers
+Integração Frontend ↔ Backend
+Autenticação
+Autorização
+Validação de dados
+Upload de arquivos
+Integração com serviços externos
+Estruturação de aplicações web
+🗄️ Banco de dados
+<p> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> </p>
+Conhecimentos
+Modelagem de dados
+Relacionamentos
+Consultas
+Persistência de dados
+Migrations
+Integração com aplicações Node.js
+🔧 Ferramentas
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> </p>
 
-> Os percentuais acima representam uma **autoavaliação aproximada do meu nível de familiaridade**, e não certificações ou resultados de testes.
+Também tenho contato com:
 
----
+Git
+GitHub
+NPM
+Vite
+Node.js
+Deploy de aplicações
+Configuração de ambientes
+Variáveis de ambiente
+Integração de serviços externos
+💈 Projeto em destaque — AQ BARBER
+📱 Plataforma para barbearias e clientes
 
-# 📈 GitHub
+Um dos principais projetos que venho desenvolvendo é o AQ BARBER, uma plataforma criada para conectar barbearias e clientes através de recursos de publicação, comunicação e agendamento.
 
-### 📊 Estatísticas
+O projeto envolve tanto desenvolvimento de interface quanto desenvolvimento de backend, banco de dados e integrações externas.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adriel153&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel153&layout=compact&langs_count=8&theme=tokyonight"/>
+✨ Funcionalidades do projeto
+👤 Usuários
+Cadastro de usuários
+Login
+Autenticação
+Gerenciamento de perfil
+Foto de perfil
+Controle de permissões
+Diferentes tipos de usuários
+💈 Barbearias
+Perfil da barbearia
+Informações do estabelecimento
+Publicações
+Conteúdo em imagem e vídeo
+Interação com clientes
+📅 Agendamentos
+
+Sistema de gerenciamento de agendamentos com diferentes estados:
+
+┌──────────────┐
+│   PENDENTE   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│  CONFIRMADO  │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│  CONCLUÍDO   │
+└──────────────┘
+
+       ou
+
+┌──────────────┐
+│   RECUSADO   │
+└──────────────┘
+
+       ou
+
+┌──────────────┐
+│  CANCELADO   │
+└──────────────┘
+🔔 Notificações
+
+O sistema possui estrutura para comunicação de eventos importantes, como:
+
+Novos agendamentos
+Confirmações
+Recusas
+Atualizações de agendamento
+Avisos para usuários
+💬 Comunicação
+Sistema de mensagens
+Comunicação entre usuários
+Estrutura de chat
+Recursos de segurança para comunicação
+📸 Publicações
+Publicações de imagens
+Publicações de vídeos
+Feed de conteúdo
+Perfil das barbearias
+Interação com publicações
+💳 Pagamentos
+
+Integração com sistema de pagamentos para gerenciamento de assinaturas e planos.
+
+O projeto trabalha com diferentes formas de pagamento e integração com serviços externos.
+
+🏗️ Arquitetura do AQ BARBER
+                         AQ BARBER
+                             │
+              ┌──────────────┴──────────────┐
+              │                             │
+              ▼                             ▼
+        ┌─────────────┐              ┌─────────────┐
+        │   FRONTEND  │              │   BACKEND   │
+        │             │              │             │
+        │ React       │◄────────────►│ Node.js     │
+        │ Vite        │     API      │ Express     │
+        └──────┬──────┘              └──────┬──────┘
+               │                            │
+               │                            ▼
+               │                     ┌─────────────┐
+               │                     │  DATABASE   │
+               │                     │ PostgreSQL  │
+               │                     └─────────────┘
+               │
+               ▼
+        ┌─────────────────┐
+        │ Serviços externos│
+        │                 │
+        │ Pagamentos      │
+        │ E-mail          │
+        │ Armazenamento   │
+        └─────────────────┘
+📱 Experiência de usuário
+
+Um dos focos do projeto é tornar a experiência simples e intuitiva.
+
+A interface do feed foi pensada para apresentar o conteúdo das barbearias de maneira visual, com inspiração em plataformas modernas de conteúdo vertical.
+
+┌─────────────────────────────┐
+│                             │
+│        🎥 PUBLICAÇÃO        │
+│                             │
+│                             │
+│        BARBEARIA            │
+│                             │
+│                  ❤️         │
+│                  💬         │
+│                  ↗️         │
+│                             │
+│                             │
+├─────────────────────────────┤
+│ 🏠  🔍  💬  🔔  👤         │
+└─────────────────────────────┘
+
+O objetivo é proporcionar uma experiência moderna e adaptada principalmente para dispositivos móveis.
+
+🔐 Segurança
+
+Durante o desenvolvimento dos projetos também venho trabalhando com conceitos relacionados a segurança, como:
+
+Autenticação de usuários
+Controle de acesso
+Validação de dados
+Verificação de informações
+Códigos de segurança
+Tokens temporários
+Variáveis de ambiente
+Proteção de informações sensíveis
+🔌 Integrações
+
+Também venho trabalhando com integração entre aplicações e serviços externos.
+
+             ┌─────────────────┐
+             │    APLICAÇÃO     │
+             └────────┬────────┘
+                      │
+        ┌─────────────┼─────────────┐
+        │             │             │
+        ▼             ▼             ▼
+   📧 E-mail      💳 Pagamento   🗄️ Banco
+        │             │             │
+        ▼             ▼             ▼
+    Serviço       Gateway       PostgreSQL
+    externo       externo
+
+Essa experiência me ajuda a entender como diferentes sistemas podem trabalhar juntos.
+
+📊 GitHub — Estatísticas
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Adriel153&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel153&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+
 </p>
+🔥 Sequência de contribuições
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Adriel153&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
+📈 Atividade no GitHub
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adriel153&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade do GitHub" /> </p>
+📚 Conhecimentos
+💻 Programação
+JavaScript
+Java
+Lógica de programação
+Programação Orientada a Objetos
+🌐 Web
+HTML5
+CSS3
+JavaScript
+React
+Vite
+Node.js
+Express
+🗄️ Dados
+PostgreSQL
+SQLite
+Modelagem de banco de dados
+Migrations
+🔧 Desenvolvimento
+Git
+GitHub
+APIs REST
+Autenticação
+Integração de sistemas
+Deploy
+Variáveis de ambiente
+🎓 Formação
+Análise e Desenvolvimento de Sistemas
 
-### 🔥 Sequência de contribuições
+🎓 Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adriel153&theme=tokyonight&hide_border=false"/>
-</p>
+Durante minha formação venho desenvolvendo conhecimentos em:
 
----
+Desenvolvimento de software
+Lógica de programação
+Banco de dados
+Programação Orientada a Objetos
+Desenvolvimento web
+Engenharia de software
+Análise de sistemas
+Estruturação de aplicações
+🧠 Como desenvolvo meus projetos
+                  💡 IDEIA
+                    │
+                    ▼
+             🔎 ANÁLISE DO PROBLEMA
+                    │
+                    ▼
+              📝 PLANEJAMENTO
+                    │
+                    ▼
+             🏗️ DESENVOLVIMENTO
+                    │
+                    ▼
+                🧪 TESTES
+                    │
+                    ▼
+             🐛 CORREÇÕES
+                    │
+                    ▼
+              🚀 DEPLOY
+                    │
+                    ▼
+             📈 MELHORIAS
 
-# 📊 Atividade no GitHub
+Procuro entender não apenas como fazer algo funcionar, mas também como estruturar uma solução que possa continuar evoluindo.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adriel153&theme=tokyo-night&hide_border=true"/>
-</p>
+🎯 Objetivo profissional
 
----
+Estou buscando minha primeira grande oportunidade profissional na área de desenvolvimento, especialmente em posições como:
 
-# 📚 Minha jornada
+💻 Desenvolvedor Júnior
+🌐 Desenvolvedor Web Júnior
+⚙️ Desenvolvedor Full Stack Júnior
+🧑‍💻 Desenvolvedor de Sistemas
 
-```text
-             APRENDER
-                 │
-                 ▼
-          ┌─────────────┐
-          │   Estudar   │
-          └──────┬──────┘
-                 │
-                 ▼
-          ┌─────────────┐
-          │   Praticar  │
-          └──────┬──────┘
-                 │
-                 ▼
-          ┌─────────────┐
-          │   Projetar  │
-          └──────┬──────┘
-                 │
-                 ▼
-          ┌─────────────┐
-          │ Desenvolver │
-          └──────┬──────┘
-                 │
-                 ▼
-          ┌─────────────┐
-          │    Testar   │
-          └──────┬──────┘
-                 │
-                 ▼
-          ┌─────────────┐
-          │   Melhorar  │
-          └──────┬──────┘
-                 │
-                 └──────────────► 🚀
-```
+Meu objetivo é entrar em uma equipe onde eu possa:
 
-Acredito que desenvolvimento é um processo contínuo.
+Aprender com profissionais experientes
+Trabalhar em projetos reais
+Desenvolver minhas habilidades
+Contribuir com soluções
+Aprender novas tecnologias
+Evoluir tecnicamente
+Crescer profissionalmente
+🌱 Atualmente estudando
 
-Cada projeto representa uma oportunidade de aprender algo novo, identificar problemas, encontrar soluções e melhorar minhas habilidades.
+Meu foco de evolução está principalmente em:
 
----
+JavaScript
+    │
+    ├── React
+    │
+    ├── Node.js
+    │
+    ├── APIs
+    │
+    └── Desenvolvimento Full Stack
 
-# 🎯 Objetivos profissionais
+Banco de Dados
+    │
+    └── PostgreSQL
 
-Atualmente estou buscando oportunidades para iniciar minha carreira profissional na área de tecnologia, especialmente como:
+Boas práticas
+    │
+    ├── Git
+    ├── Arquitetura
+    ├── Segurança
+    └── Organização de código
+📂 Projetos
+💈 AQ BARBER
 
-* 💻 Desenvolvedor Júnior
-* 🌐 Desenvolvedor Web
-* ⚙️ Desenvolvedor Full Stack Júnior
-* 🧑‍💻 Desenvolvedor de Sistemas
-
-Busco um ambiente onde possa:
-
-✅ Aplicar meus conhecimentos
-
-✅ Trabalhar em equipe
-
-✅ Aprender novas tecnologias
-
-✅ Participar de projetos reais
-
-✅ Resolver problemas
-
-✅ Evoluir profissionalmente
-
----
-
-# 🧩 Como eu trabalho
-
-```text
-Problema
-   │
-   ▼
-Entender o problema
-   │
-   ▼
-Planejar a solução
-   │
-   ▼
-Desenvolver
-   │
-   ▼
-Testar
-   │
-   ▼
-Identificar melhorias
-   │
-   ▼
-Corrigir
-   │
-   ▼
-Entregar
-```
-
-Tenho interesse não apenas em escrever código, mas em **entender o problema e construir uma solução funcional**.
-
----
-
-# 📌 O que estou estudando
-
-Atualmente continuo aprofundando meus conhecimentos em:
-
-* JavaScript
-* React
-* Node.js
-* APIs
-* Banco de dados
-* Desenvolvimento Full Stack
-* Git e GitHub
-* Arquitetura de aplicações
-* Segurança de aplicações
-* Boas práticas de desenvolvimento
-
----
-
-# 📂 Projetos
-
-### 💈 AQ BARBER
-
-**Plataforma para barbearias e clientes**
+Plataforma para barbearias e clientes
 
 Tecnologias:
 
-`React` `Vite` `JavaScript` `Node.js` `Express` `PostgreSQL`
+React Vite JavaScript Node.js Express PostgreSQL
 
----
+Principais conceitos trabalhados:
 
-### 🌐 Projetos Web
+Autenticação
+Perfis
+Agendamentos
+Notificações
+Mensagens
+Publicações
+Upload de arquivos
+APIs
+Banco de dados
+Pagamentos
+Deploy
+🌐 Projetos Web
 
-Desenvolvimento de páginas e aplicações utilizando:
+Desenvolvimento de interfaces e aplicações utilizando:
 
-`HTML` `CSS` `JavaScript` `React`
+HTML CSS JavaScript React
 
----
+Foco em:
 
-### 🎓 Projetos acadêmicos
+Responsividade
+Interfaces modernas
+Organização
+Experiência do usuário
+Integração com APIs
+🎓 Projetos acadêmicos
 
-Projetos desenvolvidos durante minha formação em **Análise e Desenvolvimento de Sistemas**, aplicando conceitos de:
+Projetos desenvolvidos durante minha formação em Análise e Desenvolvimento de Sistemas.
 
-`Java` `POO` `Lógica de Programação` `Banco de Dados`
+Principais conceitos:
 
----
+Java POO Lógica Banco de Dados Desenvolvimento de Software
 
-# 📫 Vamos conversar?
+📌 Filosofia
 
-<p align="center">
+Acredito que um bom desenvolvedor nunca para de aprender.
 
-<a href="https://github.com/Adriel153">
-<img src="https://img.shields.io/badge/GitHub-Adriel153-181717?style=for-the-badge&logo=github"/>
-</a>
+Cada erro encontrado em um projeto é uma oportunidade para entender melhor o problema.
 
-</p>
+Cada funcionalidade desenvolvida é uma oportunidade para melhorar minhas habilidades.
 
----
+E cada projeto é uma oportunidade para construir algo melhor que o anterior.
 
-# ⚡ Um pouco mais sobre mim
-
-```javascript
 const adriel = {
-    objetivo: "Me tornar um desenvolvedor cada vez melhor",
-    foco: [
-        "Desenvolvimento Web",
-        "Full Stack",
-        "Tecnologia",
-        "Aprendizado contínuo"
-    ],
-    tecnologias: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Node.js",
-        "Express",
-        "PostgreSQL"
-    ],
-    filosofia: "Sempre em busca de melhorar e evoluir através da tecnologia."
+  objetivo: "Evoluir como desenvolvedor",
+
+  foco: [
+    "Desenvolvimento Web",
+    "Full Stack",
+    "Tecnologia",
+    "Aprendizado contínuo"
+  ],
+
+  tecnologias: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express",
+    "PostgreSQL"
+  ],
+
+  projetoPrincipal: "AQ BARBER",
+
+  filosofia:
+    "Sempre em busca de melhorar e evoluir através da tecnologia."
 };
 
 console.log("🚀 Construindo meu futuro através da tecnologia!");
-```
-
----
-
+📫 Contato
+<p align="center"> <a href="https://github.com/Adriel153"> <img src="https://img.shields.io/badge/GitHub-Adriel153-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 <p align="center">
+🚀 Obrigado por visitar meu perfil!
 
-### 🚀 Obrigado por visitar meu perfil!
+Sempre aprendendo.
+Sempre desenvolvendo.
+Sempre evoluindo.
 
-**Sempre aprendendo. Sempre desenvolvendo. Sempre evoluindo.**
+</p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Adriel153&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="Visualizações do perfil" /> </p> ```
 
-</p>
+
+
+
 
