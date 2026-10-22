@@ -22,8 +22,8 @@ Tenho experiência prática desenvolvendo projetos reais e buscando transformar 
   <a href="https://www.linkedin.com/in/adrielfelixdasilva">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/driel_fs/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.instagram.com/adrielfelix.dev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profissional">
   </a>
 </p>
 
@@ -44,7 +44,7 @@ Tenho experiência prática desenvolvendo projetos reais e buscando transformar 
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Tecnologias
 
 ### Frontend
 
@@ -117,6 +117,9 @@ Plataforma para barbearias e clientes, desenvolvida como um projeto completo env
 
 **React • Vite • JavaScript • Node.js • Express • PostgreSQL • APIs REST**
 
+🌐 **Acessar o projeto:**  
+https://aqbarber.com.br/login
+
 > Projeto profissional. O código-fonte não está disponível publicamente por questões de privacidade e propriedade do projeto.
 
 ---
@@ -145,13 +148,16 @@ Sistema desenvolvido para um cenário real de comércio, envolvendo catálogo, v
 
 **React • Vite • JavaScript • Node.js • Express • Sequelize • PostgreSQL • APIs REST • Mercado Pago • Google Maps**
 
+🌐 **Acessar o projeto:**  
+https://agapemercearia.com/
+
 > Projeto desenvolvido para utilização em ambiente real. O código-fonte não está disponível publicamente.
 
 ---
 
 ## 🔌 AdriTec API
 
-Projeto backend desenvolvido com **Node.js e Express**, envolvendo criação de API, integração com banco de dados/serviços externos, autenticação e configuração para execução em produção.
+Projeto backend desenvolvido com **Node.js e Express**, envolvendo criação de API, integração com serviços externos, autenticação e configuração para execução em produção.
 
 ### Conceitos trabalhados
 
@@ -171,10 +177,10 @@ Projeto backend desenvolvido com **Node.js e Express**, envolvendo criação de 
 
 Meu portfólio pessoal reúne meus principais projetos, tecnologias e informações profissionais.
 
-🔗 **Acesse:**  
+🌐 **Acessar portfólio:**  
 https://adriel153.github.io/Meu-Portifolio/
 
-🔗 **Site pessoal:**  
+🌐 **Site pessoal:**  
 https://adrielfelixdev.com.br/
 
 ---
@@ -237,7 +243,7 @@ Meu GitHub reúne projetos, estudos e experimentos desenvolvidos durante minha e
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adrielfelixdasilva">
@@ -246,8 +252,8 @@ Meu GitHub reúne projetos, estudos e experimentos desenvolvidos durante minha e
   <a href="https://adriel153.github.io/Meu-Portifolio/">
     <img src="https://img.shields.io/badge/Portfólio-Acessar-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/driel_fs/">
-    <img src="https://img.shields.io/badge/Instagram-@driel__fs-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/adrielfelix.dev/">
+    <img src="https://img.shields.io/badge/Instagram-@adrielfelix.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
